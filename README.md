@@ -1,4 +1,4 @@
 # SDS-Labs
 
-Lab Tasks
+Lab Tasks\
 Course: Statistics for Data Science
